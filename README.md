@@ -1,8 +1,8 @@
 Groovy syntax plugin for Vim (temporary)
 ========================================
 
-> *Important!*
-> It is temporary repo, existing while related bug will not be fixed.
+> **Important!**<br>
+> It is fix repository
 
 About
 -----
